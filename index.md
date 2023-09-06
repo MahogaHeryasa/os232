@@ -1,5 +1,7 @@
+# os232
 
-permalink: LINKS/
+<p style="color: purple; font-weight: bold;">Hery's page</p>
 
-## LINKS
+|[Github](https://github.com/MahogaHeryasa/os232)   | [Log](https://mahogaheryasa.github.io/os232/TXT/mylog.txt)    |[Tarball](https://os.vlsm.org/Log/MahogaHeryasa.tar.bz2.txt) | [Links](\LINKS)|
 
+REV02: Wen 06 Sep 2023 22:00
