@@ -4,4 +4,4 @@
 
 |[Github](https://github.com/MahogaHeryasa/os232)   | [Log](https://mahogaheryasa.github.io/os232/TXT/mylog.txt)    |[Tarball](https://os.vlsm.org/Log/MahogaHeryasa.tar.bz2.txt) | [Links](LINKS/)|
 
-REV02: Wen 11 Sep 2023 10:00
+REV03: Wen 11 Sep 2023 10:00
