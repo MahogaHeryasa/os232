@@ -22,3 +22,17 @@ ___
     An article containing essential Linux Commands to get to know Linux systems better
 
 ___
+### Week 02
+
+1. [Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)
+
+    Simple vi commands cheatsheet to help week02 assignment
+
+2. [Computer Security](https://bootcamp.berkeley.edu/blog/what-is-computer-security/)
+
+    This is a good article that discusesses basic introduction to computer security
+
+3. [Protection in OS](https://www.geeksforgeeks.org/protection-in-os-domain-of-protection-association-authentication/) 
+
+    This is a good article that explain protection in OS thoroughly
+    
