@@ -35,4 +35,20 @@ ___
 3. [Protection in OS](https://www.geeksforgeeks.org/protection-in-os-domain-of-protection-association-authentication/) 
 
     This is a good article that explain protection in OS thoroughly
-    
+
+___
+### Week 03
+
+1. [OS File System](https://www.guru99.com/file-systems-operating-system.html)
+
+    An article that explain file systems in OS thoroughly
+   
+2. [Linux File Systm](https://www.geeksforgeeks.org/linux-file-system/)
+
+    An article that explain file systems in the operating systems that we learn in this course, Linux
+   
+4. [C Tutorial](https://www.tutorialspoint.com/cprogramming/)
+
+    This is a basic c tutorial to help week03 assignment
+
+   
