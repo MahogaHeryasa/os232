@@ -51,4 +51,14 @@ ___
 
     This is a basic c tutorial to help week03 assignment
 
+___
+### Week 04
+
+1. [Paging in OS](https://www.geeksforgeeks.org/paging-in-operating-system/)
+
+    An article that explain paging as one of memory manager in OS
    
+2. [SCP Command](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/)
+
+    An article that explain the usage of scp command in linux for week 4 assignment 
+
