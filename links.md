@@ -50,7 +50,7 @@ ___
 4. [C Tutorial](https://www.tutorialspoint.com/cprogramming/)
 
     This is a basic c tutorial to help week03 assignment
-
+   
 ___
 ### Week 04
 
@@ -60,5 +60,19 @@ ___
    
 2. [SCP Command](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/)
 
-    An article that explain the usage of scp command in linux for week 4 assignment 
+    An article that explain the usage of scp command in linux for week 4 assignment
+   
+___
+### Week 05
 
+1. [Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+
+    This is a good article that explain virtual memory in OS succinctly
+   
+2. [Thrashing](https://www.javatpoint.com/what-is-thrash)
+
+    This is a good article that explain thrashing succinctly
+
+3. [Function in C](https://www.geeksforgeeks.org/c-functions/)
+
+    This is a good article that explain c functions to help week 5 assignment
