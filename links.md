@@ -78,7 +78,7 @@ ___
     This is a good article that explain c functions to help week 5 assignment
 
 ___
-### Week 04
+### Week 06
    
 1. [Process State in OS](https://www.scaler.com/topics/operating-system/process-state-in-os/)
 
