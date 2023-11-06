@@ -76,3 +76,14 @@ ___
 3. [Function in C](https://www.geeksforgeeks.org/c-functions/)
 
     This is a good article that explain c functions to help week 5 assignment
+
+___
+### Week 04
+   
+1. [Process State in OS](https://www.scaler.com/topics/operating-system/process-state-in-os/)
+
+    An article that explain Process State in OS succinctly
+
+2. [Fork() System Call](https://www.geeksforgeeks.org/fork-system-call/)
+
+    An article that explain Fork() with examples thoroughly
