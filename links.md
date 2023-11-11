@@ -81,9 +81,25 @@ ___
 ### Week 06
    
 1. [Process State in OS](https://www.scaler.com/topics/operating-system/process-state-in-os/)
-
     An article that explain Process State in OS succinctly
 
 2. [Fork() System Call](https://www.geeksforgeeks.org/fork-system-call/)
 
     An article that explain Fork() with examples thoroughly
+
+___
+### Week 07
+
+1. [Process Synchronization in OS](https://www.studytonight.com/operating-system/process-synchronization)
+
+    An article that explain the basic of process synchronization in OS
+
+2. [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)
+
+    An article that explain Semaphores in process synchronization
+
+3. [Deadlock VS Starvation](https://www.javatpoint.com/deadlock-vs-starvation)
+
+    An article that explain the difference between Deadlock and Starvation
+
+___
