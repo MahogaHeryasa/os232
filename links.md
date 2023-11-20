@@ -103,3 +103,14 @@ ___
     An article that explain the difference between Deadlock and Starvation
 
 ___
+### Week 08
+
+1. [Process Scheduling in OS](https://www.guru99.com/process-scheduling.html)
+
+    An article that explain the basic of process scheduling in OS
+
+2. [Kernotex’s YouTube LFS 12.0 PlayList](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315)
+
+    An YouTube playlist that helps build LFS step by step 
+
+___
