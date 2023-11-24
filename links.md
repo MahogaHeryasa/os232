@@ -114,3 +114,18 @@ ___
     An YouTube playlist that helps build LFS step by step 
 
 ___
+### Week 09
+
+1. [Kernotex’s YouTube LFS 12.0 Ch.6](https://www.youtube.com/watch?v=D_N1kQPsQEk) [& Ch.7](https://www.youtube.com/watch?v=y8uAMEK0FVc)
+
+    Kernotex’s YouTube video for this week chapter 6 & 7 LFS
+
+2. [Mass Storage Structure in OS](https://www.javatpoint.com/mass-storage-structure-in-operating-systems)
+
+    This is a good article that explain Mass Storage Structure in OS succinctly
+
+3. [Swap Space in OS](https://www.geeksforgeeks.org/swap-space-in-operating-system/)
+
+    This is a good article that explain c functions to help week 5 assignment
+
+___
