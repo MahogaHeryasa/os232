@@ -139,7 +139,7 @@ ___
 
      An article that explain how direct memory access controller works 
 
-4. [Swap Space in OS](https://www.geeksforgeeks.org/swap-space-in-operating-system/)
+4. [Kernotex’s YouTube LFS 12.0 Ch.8](https://www.geeksforgeeks.org/swap-space-in-operating-system/)
 
     Kernotex’s YouTube video for LFS ch.8
 
