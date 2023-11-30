@@ -126,6 +126,21 @@ ___
 
 3. [Swap Space in OS](https://www.geeksforgeeks.org/swap-space-in-operating-system/)
 
-    This is a good article that explain c functions to help week 5 assignment
+    This is a good article that explain swap space in OS
+
+___
+### Week 10
+
+1. [I/O Hardware in OS](https://www.geeksforgeeks.org/i-o-hardware-in-operating-system/)
+
+    This is a good article that explain I/O Hardware in OS succinctly
+
+3. [DMA Controller](https://www.baeldung.com/cs/dma-controllers)
+
+     An article that explain how direct memory access controller works 
+
+4. [Swap Space in OS](https://www.geeksforgeeks.org/swap-space-in-operating-system/)
+
+    Kernotex’s YouTube video for LFS ch.8
 
 ___
